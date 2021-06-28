@@ -125,7 +125,6 @@ router
             })
 
         }
-        res.end();
     })
 
 //Exportamos las rutas
