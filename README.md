@@ -1,20 +1,3 @@
-# Evaluacion primera semana NTP
-
-## Para clonar el repositorio
-
--   Ejecute el siguiente comando: `git clone https://github.com/giothc94/prueba_1_NTP.git`
-
-## Para instalar las dependencias ejecute
-
--   `npm i`
-
-## Modificar el package.json con sus datos en la clave author
-
-## Levantar el servidor en el archivo index.js
-
--   Debe trabajar on nodemon
--   Debe crear el script dev en onde se ejecute nodemon
-
 ## Crear un router en la carpeta `routes` que contenga
 
 -   Un Endpoint que permita receptar un id en los parametros y que retorno un personaje
